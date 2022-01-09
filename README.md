@@ -39,4 +39,10 @@ Tired of visiting many streaming services to find out whether a particual stream
 
 ----
 
+## Prerequisites
+1. <= Node 14
+2. db:migrate - ```brew postgresql-upgrade-database```
+
+----
+
 Made with :heart: at **LeWagon**
